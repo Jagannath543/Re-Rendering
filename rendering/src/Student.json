@@ -1,0 +1,353 @@
+ 
+ [
+  {
+    "name": "Aarav",
+    "age": 18,
+    "maths": 85,
+    "physics": 92,
+    "chemistry": 78
+  },
+  {
+    "name": "Aanya",
+    "age": 19,
+    "maths": 76,
+    "physics": 88,
+    "chemistry": 90
+  },
+  {
+    "name": "Abhinav",
+    "age": 20,
+    "maths": 65,
+    "physics": 70,
+    "chemistry": 72
+  },
+  {
+    "name": "Anika",
+    "age": 21,
+    "maths": 90,
+    "physics": 85,
+    "chemistry": 88
+  },
+  {
+    "name": "Arjun",
+    "age": 22,
+    "maths": 55,
+    "physics": 60,
+    "chemistry": 58
+  },
+  {
+    "name": "Diya",
+    "age": 18,
+    "maths": 95,
+    "physics": 98,
+    "chemistry": 92
+  },
+  {
+    "name": "Ishaan",
+    "age": 19,
+    "maths": 45,
+    "physics": 50,
+    "chemistry": 48
+  },
+  {
+    "name": "Kavya",
+    "age": 20,
+    "maths": 78,
+    "physics": 82,
+    "chemistry": 80
+  },
+  {
+    "name": "Rohan",
+    "age": 21,
+    "maths": 88,
+    "physics": 90,
+    "chemistry": 85
+  },
+  {
+    "name": "Sanya",
+    "age": 22,
+    "maths": 60,
+    "physics": 65,
+    "chemistry": 62
+  },
+  {
+    "name": "Vivaan",
+    "age": 18,
+    "maths": 70,
+    "physics": 75,
+    "chemistry": 72
+  },
+  {
+    "name": "Meera",
+    "age": 19,
+    "maths": 80,
+    "physics": 85,
+    "chemistry": 82
+  },
+  {
+    "name": "Karan",
+    "age": 20,
+    "maths": 90,
+    "physics": 95,
+    "chemistry": 92
+  },
+  {
+    "name": "Nisha",
+    "age": 21,
+    "maths": 50,
+    "physics": 55,
+    "chemistry": 52
+  },
+  {
+    "name": "Rahul",
+    "age": 22,
+    "maths": 65,
+    "physics": 70,
+    "chemistry": 68
+  },
+  {
+    "name": "Priya",
+    "age": 18,
+    "maths": 85,
+    "physics": 88,
+    "chemistry": 90
+  },
+  {
+    "name": "Aditya",
+    "age": 19,
+    "maths": 75,
+    "physics": 78,
+    "chemistry": 80
+  },
+  {
+    "name": "Sneha",
+    "age": 20,
+    "maths": 95,
+    "physics": 98,
+    "chemistry": 100
+  },
+  {
+    "name": "Vikram",
+    "age": 21,
+    "maths": 55,
+    "physics": 58,
+    "chemistry": 60
+  },
+  {
+    "name": "Tanya",
+    "age": 22,
+    "maths": 65,
+    "physics": 68,
+    "chemistry": 70
+  },
+  {
+    "name": "Siddharth",
+    "age": 18,
+    "maths": 80,
+    "physics": 82,
+    "chemistry": 85
+  },
+  {
+    "name": "Ritika",
+    "age": 19,
+    "maths": 90,
+    "physics": 92,
+    "chemistry": 95
+  },
+  {
+    "name": "Manav",
+    "age": 20,
+    "maths": 60,
+    "physics": 62,
+    "chemistry": 65
+  },
+  {
+    "name": "Neha",
+    "age": 21,
+    "maths": 70,
+    "physics": 72,
+    "chemistry": 75
+  },
+  {
+    "name": "Yash",
+    "age": 22,
+    "maths": 85,
+    "physics": 88,
+    "chemistry": 90
+  },
+  {
+    "name": "Isha",
+    "age": 18,
+    "maths": 75,
+    "physics": 78,
+    "chemistry": 80
+  },
+  {
+    "name": "Kunal",
+    "age": 19,
+    "maths": 95,
+    "physics": 98,
+    "chemistry": 100
+  },
+  {
+    "name": "Anjali",
+    "age": 20,
+    "maths": 55,
+    "physics": 58,
+    "chemistry": 60
+  },
+  {
+    "name": "Harsh",
+    "age": 21,
+    "maths": 65,
+    "physics": 68,
+    "chemistry": 70
+  },
+  {
+    "name": "Pooja",
+    "age": 22,
+    "maths": 80,
+    "physics": 82,
+    "chemistry": 85
+  },
+  {
+    "name": "Nikhil",
+    "age": 18,
+    "maths": 90,
+    "physics": 92,
+    "chemistry": 95
+  },
+  {
+    "name": "Shreya",
+    "age": 19,
+    "maths": 60,
+    "physics": 62,
+    "chemistry": 65
+  },
+  {
+    "name": "Raj",
+    "age": 20,
+    "maths": 70,
+    "physics": 72,
+    "chemistry": 75
+  },
+  {
+    "name": "Divya",
+    "age": 21,
+    "maths": 85,
+    "physics": 88,
+    "chemistry": 90
+  },
+  {
+    "name": "Amit",
+    "age": 22,
+    "maths": 75,
+    "physics": 78,
+    "chemistry": 80
+  },
+  {
+    "name": "Riya",
+    "age": 18,
+    "maths": 95,
+    "physics": 98,
+    "chemistry": 100
+  },
+  {
+    "name": "Saurabh",
+    "age": 19,
+    "maths": 55,
+    "physics": 58,
+    "chemistry": 60
+  },
+  {
+    "name": "Kriti",
+    "age": 20,
+    "maths": 65,
+    "physics": 68,
+    "chemistry": 70
+  },
+  {
+    "name": "Tarun",
+    "age": 21,
+    "maths": 80,
+    "physics": 82,
+    "chemistry": 85
+  },
+  {
+    "name": "Lavanya",
+    "age": 22,
+    "maths": 90,
+    "physics": 92,
+    "chemistry": 95
+  },
+  {
+    "name": "Aniket",
+    "age": 18,
+    "maths": 60,
+    "physics": 62,
+    "chemistry": 65
+  },
+  {
+    "name": "Bhavna",
+    "age": 19,
+    "maths": 70,
+    "physics": 72,
+    "chemistry": 75
+  },
+  {
+    "name": "Gaurav",
+    "age": 20,
+    "maths": 85,
+    "physics": 88,
+    "chemistry": 90
+  },
+  {
+    "name": "Pallavi",
+    "age": 21,
+    "maths": 75,
+    "physics": 78,
+    "chemistry": 80
+  },
+  {
+    "name": "Rakesh",
+    "age": 22,
+    "maths": 95,
+    "physics": 98,
+    "chemistry": 100
+  },
+  {
+    "name": "Sonal",
+    "age": 18,
+    "maths": 55,
+    "physics": 58,
+    "chemistry": 60
+  },
+  {
+    "name": "Uday",
+    "age": 19,
+    "maths": 65,
+    "physics": 68,
+    "chemistry": 70
+  },
+  {
+    "name": "Vandana",
+    "age": 20,
+    "maths": 80,
+    "physics": 82,
+    "chemistry": 85
+  },
+  {
+    "name": "Yuvraj",
+    "age": 21,
+    "maths": 90,
+    "physics": 92,
+    "chemistry": 95
+  },
+  {
+    "name": "Zoya",
+    "age": 22,
+    "maths": 60,
+    "physics": 62,
+    "chemistry": 65
+  }
+]
